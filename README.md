@@ -16,8 +16,9 @@ This repo tracks my daily solutions for the GeeksforGeeks 160 Challenge. For eve
 | **Day 1** | *Get Second Largest Element* | [DAY1.CPP](./DAY1.CPP) | [DAY1.png](./DAY1.png) |
 | **Day 2** | *Push Zero to the End on an array* | [DAY2.CPP](./DAY2.CPP) | [DAY2.png](./DAY2.PNG) |
 | **Day 3** | *Reverse an array* | [DAY3.CPP](./DAY3.CPP) | [DAY3.png](./DAY3.PNG) |
-| **Day 5** | *Rotate an array* | [DAY4.CPP](./DAY4.CPP) | [DAY4.png](./DAY4.PNG) |
-| **Day 6** | *Next permutation* | [DAY5.CPP](./DAY5.CPP) | [DAY5.png](./DAY5.PNG) |
+| **Day 4** | *Rotate an array* | [DAY4.CPP](./DAY4.CPP) | [DAY4.png](./DAY4.PNG) |
+| **Day 5** | *Next permutation* | [DAY5.CPP](./DAY5.CPP) | [DAY5.png](./DAY5.PNG) |
+| **Day 6** | *Next permutation* | [DAY6.CPP](./DAY6.CPP) | [DAY6.png](./DAY6.PNG) |
 
 *(Note: I update this table daily as I push new commits!)*
 
